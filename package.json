@@ -1,5 +1,6 @@
 {
   "name": "chrome-ext-vuejs-tailwindcss-template",
+  "description": "Chrome extension with Vue.js and Tailwind CSS",
   "private": false,
   "version": "0.1.0",
   "scripts": {

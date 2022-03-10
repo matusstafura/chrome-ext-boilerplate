@@ -1,6 +1,6 @@
 {
   "name": "__MSG_extName__",
-  "description": "A Vue Browser Extension",
+  "description": "Chrome Extension Boilerplate with Vue.js and Tailwind CSS",
   "version": "0.1.0",
   "manifest_version": 2,
   "default_locale": "en",
