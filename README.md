@@ -8,7 +8,13 @@ Chrome extension template with Vuejs and TailwindCSS
 npm install
 ```
 
-### (Re)generate package
+### Watch / Dev
+
+```bash
+npm run build
+```
+
+### Build package
 
 ```bash
 npm run build
