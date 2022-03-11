@@ -1,6 +1,6 @@
 # Chrome Extension Boilerplate
 
-Chrome extension template with Vuejs and TailwindCSS
+Chrome extension template with Vuejs and TailwindCSS (Manifest v2)
 
 ### Installation
 
@@ -24,4 +24,4 @@ npm run build
 
 1. In Chrome go to the extensions page `chrome://extensions`.
 2. Enable Developer Mode.
-3. Click Load unpacked and choose `extension` folder
+3. Click Load unpacked and choose `dist` folder

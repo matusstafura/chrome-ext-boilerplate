@@ -1,6 +1,21 @@
 {
-  "name": "chrome-ext-vuejs-tailwindcss-template",
+  "name": "chrome-extension-vuejs-tailwindcss-template",
   "description": "Chrome extension with Vue.js and Tailwind CSS",
+  "author": "Matus Stafura",
+  "keywords": [
+    "chrome",
+    "extension",
+    "vue",
+    "vuejs",
+    "tailwind",
+    "boilerplate",
+    "template"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matusstafura/chrome-ext-boilerplate"
+  },
   "private": false,
   "version": "0.1.0",
   "scripts": {
@@ -25,20 +40,5 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vue-cli-plugin-browser-extension": "~0.25.2",
     "vue-template-compiler": "^2.6.11"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true,
-      "webextensions": true
-    },
-    "extends": [
-      "plugin:vue/essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
-    "rules": {}
   }
 }
