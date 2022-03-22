@@ -5,6 +5,10 @@ Chrome extension template with Vuejs and TailwindCSS (Manifest v2)
 ### Installation
 
 ```bash
+npm i chrome-extension-vuejs-tailwindcss-template
+```
+
+```bash
 npm install
 ```
 
